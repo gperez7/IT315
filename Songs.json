@@ -1,0 +1,125 @@
+{
+  "Songs": [
+    {
+	"SongID":1, 
+	"SongTitle":"Runaway",
+	"SongArtist":"N3WPORT & Meggie York",
+	"SongGenre":"Epic",
+	"SongReleaseYear":"2021",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/runaway.jpeg",
+	"SongStreamLink":"https://ncs.io/nrunaway", 
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/919/runaway-1615557633-hGH0ngRGwl.mp3"
+    },
+
+    {
+	"SongID":2, 
+	"SongTitle":"Happi",
+	"SongArtist":"Mangoo, bby ivy",
+	"SongGenre":"House",
+	"SongReleaseYear":"2020",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/happi.jpeg",
+	"SongStreamLink":"https://ncs.io/Happi", 
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/793/1598275832_alGHoS2Qro_Mangoo---Happi-feat-Baby-IvyNCS-Release.mp3"
+    },
+
+    {
+	"SongID":3, 
+	"SongTitle":"Sky High pt. II",
+	"SongArtist":"Elektronomia",
+	"SongGenre":"House",
+	"SongReleaseYear":"2021",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/skyhigh.jpeg",
+	"SongStreamLink":"https://ncs.io/SkyHigh2",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/887/sky-high-pt-ii-1609495231-50f9lRx1Nv.mp3"
+    },
+
+    {
+	"SongID":4,
+	"SongTitle":"Letter",
+	"SongArtist":"Shiah Maisel, Electro-Light",
+	"SongGenre":"House",
+	"SongReleaseYear":"2021",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/letter.jpeg",
+	"SongStreamLink":"https://ncs.io/letter",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/907/letter-1613149240-U1nOe432HM.mp3"
+    },
+
+    {
+	"SongID":5,
+	"SongTitle":"21",
+	"SongArtist":"Shiah Maisel, Arlow",
+	"SongGenre":"Indie",
+	"SongReleaseYear":"2021",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/21.jpeg",
+	"SongStreamLink":"https://ncs.io/twentyone",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/889/21-1610028032-ILqHvSooxR.mp3"
+    },
+
+    {
+	"SongID":6,
+	"SongTitle":"Fall With Me",
+	"SongArtist":"Jim Yosef","SongGenre":"Electronic",
+	"SongReleaseYear":"2020",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/fallwithme.jpeg",
+	"SongStreamLink":"https://ncs.io/fallwithme",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/779/fall-with-me-1597319401-CwjCMymrBF.mp3"
+    },
+
+    {
+	"SongID":7,
+	"SongTitle":"Prism",
+	"SongArtist":"Summer Was Fun, Laura Brehm",
+	"SongGenre":"Indie",
+	"SongReleaseYear":"2019",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/prism.jpeg",
+	"SongStreamLink":"https://ncs.io/prism",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/618/prism-1586958138-Z15yLssLLA.mp3"
+    },
+
+    {
+	"SongID":8,
+	"SongTitle":"New Beginning",
+	"SongArtist":"Ludwiig, Sk-Hall",
+	"SongGenre":"House",
+	"SongReleaseYear":"2019",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/newbeginning.jpeg",
+	"SongStreamLink":"https://ncs.io/NewBeginning",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/655/new-beginning-1586958974-bo6LNcnsBd.mp3"
+    },
+
+    {
+	"SongID":9,
+	"SongTitle":"Flashes",
+	"SongArtist":"NIVIRO",
+	"SongGenre":"House",
+	"SongReleaseYear":"2019",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/flashes.jpeg",
+	"SongStreamLink":"https://ncs.io/flashes",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/605/flashes-1586957889-njVx7OJzm7.mp3"
+    },
+
+    {
+	"SongID":10,
+	"SongTitle":"Golden",
+	"SongArtist":"Outwild",
+	"SongGenre":"Indie",
+	"SongReleaseYear":"2021",
+	"SongBackground":"UIColor(red: 0.4667, green: 0.1059, blue: 0.349, alpha: 1.0)",
+	"SongArtwork":"https://github.com/gperez7/IT315/raw/main/golden.jpeg",
+	"SongStreamLink":"https://ncs.io/golden",
+	"SongPreview":"https://ncsmusic.s3.eu-west-1.amazonaws.com/tracks/000/000/908/1613576935_d56g5qXLRj_Outwild-x-She-Is-Jules---Golden-NCS-Release.mp3"
+    }
+
+  ],
+
+  "Status":"OK"
+}
